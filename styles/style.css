@@ -58,7 +58,7 @@
 }
 
 .header__main-illustration {
-  width: 756px;
+  width: 765px;
   height: 608px;
   position: absolute;
   right: 0;
@@ -109,9 +109,7 @@
   font-size: 24px;
   font-weight: normal;
 }
-/* Как обнулить размеры сверху и снизу? */
 .two-columns__paragraph {
-  justify-content: space-between;
   margin: 0 0 30px 0;
 }
 
